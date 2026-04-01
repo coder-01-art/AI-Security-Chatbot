@@ -1,5 +1,7 @@
 # AI Security Policy Chatbot
 
+[![Live App](https://img.shields.io/badge/Live-Demo-green)](https://your-link.streamlit.app)
+
 ## Features
 - Upload PDF
 - Ask questions
