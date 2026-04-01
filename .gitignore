@@ -1,0 +1,5 @@
+chatbot-env/
+__pycache__/
+*.pyc
+temp.pdf
+.env
